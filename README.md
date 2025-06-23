@@ -74,3 +74,21 @@ Social media links
 Copyright information
 Each component will be designed for reusability and consistency across the application.
 
+## Team roles
+Team Role Documentation:
+Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
+
+## Technology Stack Breakdown:
+Explore the technologies used in a scalable project and their specific contributions to achieving project goals.
+
+## Database Design Proficiency:
+Plan and document a relational database structure with entities, attributes, and relationships that mirror real-world requirements.
+
+## Feature-Driven Development:
+Identify and describe core features of the application, focusing on their relevance to the user experience and business logic.
+
+## API Security Fundamentals:
+Implement and document key security measures to safeguard application data and ensure secure transactions.
+
+## CI/CD Pipeline Integration:
+Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
